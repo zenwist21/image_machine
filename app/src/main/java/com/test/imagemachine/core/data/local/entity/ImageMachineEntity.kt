@@ -1,6 +1,5 @@
-package com.test.imagemachine.data.source.local.entity
+package com.test.imagemachine.core.data.local.entity
 
-import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import java.util.UUID
